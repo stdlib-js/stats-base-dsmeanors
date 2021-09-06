@@ -191,6 +191,26 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmeanors`][@stdlib/stats/base/dmeanors]: calculate the arithmetic mean of a double-precision floating-point strided array using ordinary recursive summation.
+-   [`@stdlib/stats/base/dsmean`][@stdlib/stats/base/dsmean]: calculate the arithmetic mean of a single-precision floating-point strided array using extended accumulation and returning an extended precision result.
+-   [`@stdlib/stats/base/dsnanmeanors`][@stdlib/stats/base/dsnanmeanors]: calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using ordinary recursive summation with extended accumulation, and returning an extended precision result.
+-   [`@stdlib/stats/base/meanors`][@stdlib/stats/base/meanors]: calculate the arithmetic mean of a strided array using ordinary recursive summation.
+-   [`@stdlib/stats/base/smeanors`][@stdlib/stats/base/smeanors]: calculate the arithmetic mean of a single-precision floating-point strided array using ordinary recursive summation.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -251,6 +271,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmeanors]: https://github.com/stdlib-js/stats-base-dmeanors
+
+[@stdlib/stats/base/dsmean]: https://github.com/stdlib-js/stats-base-dsmean
+
+[@stdlib/stats/base/dsnanmeanors]: https://github.com/stdlib-js/stats-base-dsnanmeanors
+
+[@stdlib/stats/base/meanors]: https://github.com/stdlib-js/stats-base-meanors
+
+[@stdlib/stats/base/smeanors]: https://github.com/stdlib-js/stats-base-smeanors
+
+<!-- </related-links> -->
 
 </section>
 
